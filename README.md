@@ -24,7 +24,7 @@ Simple discordjs bot for project zomboid dedicated server.
 
 ```
 src/config.json:
-- "zomboidPath": your Zomboid path foldder (Example: C:\Users\<username>\Zomboid or ~/Zomboid)
-	ownerID: optional, discord user's id
-	channelID: discord channel's ID, where bot will send messages
+- zomboidPath: your Zomboid path foldder (Example: C:\Users\<username>\Zomboid or ~/Zomboid)
+- ownerID: optional, discord user's id
+- channelID: discord channel's ID, where bot will send messages
 ```
